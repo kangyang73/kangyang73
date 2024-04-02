@@ -1,4 +1,10 @@
-### Hi there 👋
+### I am a fifth-year PhD candidate in the Department of Computer Science and Engineering. My research focuses on the AI for Wireless Networking and Sensing. For additional information, please refer to my website.
+
+### About Me
+
+I am a fifth-year PhD candidate in the Department of Computer Science and Engineering. My research focuses on AI for Wireless Networking and Sensing. For additional information, please refer to [my website](https://www.kangyangg.com).
+
+
 
 <!--
 **kangyang73/kangyang73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
