@@ -1,6 +1,6 @@
 ### About Me
 
-I am a fifth-year PhD candidate in the Department of Computer Science and Engineering at the University of California, Merced. My research focuses on AI for Wireless Networking and Sensing. For additional information, please refer to [my website](https://www.kangyangg.com).
+I hold a PhD in Electrical Engineering and Computer Science from the University of California, Merced. My research specializes in AI for Wireless Networking and Sensing. For additional information, please refer to [my website](https://www.kangyangg.com).
 
 
 <!--
